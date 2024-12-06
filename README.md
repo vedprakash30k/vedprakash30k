@@ -61,8 +61,8 @@ Below are some of my best and most-used repositories. Check them out!
 |-------------------|-------------|--------------------|
 | [Portfolio Website](https://krtvedant.netlify.app/) | 🌐 My personal portfolio showcasing skills and projects. | HTML, CSS, JavaScript |
 | [Silicon portfolio ](https://sitm.netlify.app/) | 🌤️ Silicon portfolio  | HTML, CSS, JavaScript |
-| [Expance Tracker]((https://exchangetraker.netlify.app/)) | 🛒 A complete expense tracking app helps track receipts, keep income records, make a budget, handle taxes, sync cards, and do more things. |  HTML, CSS, JavaScript |
-| [android calculator]((https://github.com/vedprakash30k/Android-calculator-)) | 📋 A productivity app for efficient calculator. | Kotlin, Xml|
+| [Expance Tracker](https://exchangetraker.netlify.app/) | 🛒 A complete expense tracking app helps track receipts, keep income records, make a budget, handle taxes, sync cards, and do more things. |  HTML, CSS, JavaScript |
+| [android calculator](https://github.com/vedprakash30k/Android-calculator-) | 📋 A productivity app for efficient calculator. | Kotlin, Xml|
 | [Expense Tracker](https://github.com/vedprakash30k/expense-tracker) | 💰 Track and manage expenses in an intuitive way. | Kotlin, Java, Firebase |
 | [Game Application](https://github.com/vedprakash30k/[game-app](https://github.com/vedprakash30k/car_racing-game)) | 🎮 A fun Android game app built from scratch. | Java, C++, XML |
 
